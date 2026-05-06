@@ -7631,6 +7631,14 @@
 										"$ref": "AAAAAAGd/HZHbVWm3Tw="
 									},
 									"name": "Constraint1"
+								},
+								{
+									"_type": "UMLConstraint",
+									"_id": "AAAAAAGd/JtcJ25c8OA=",
+									"_parent": {
+										"$ref": "AAAAAAGd/HZHbVWm3Tw="
+									},
+									"name": "Constraint2"
 								}
 							],
 							"source": {

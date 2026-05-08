@@ -51,6 +51,7 @@
       <strong>Alternative Courses</strong><br>
       1a. 로그아웃 상태: '회원 탈퇴' 버튼 비활성화<br>
       1b. 관리자 로그인: '회원 탈퇴' 버튼 비활성화
+      3a. 탈퇴 취소: System은 데이터 변경 없이 탈퇴 절차를 중단하고 이전 화면 유지
     </td>
   </tr>
 </table>
@@ -112,7 +113,7 @@
   <tr>
     <td colspan="2">
       <strong>Alternative Courses</strong><br>
-      3a. 미응답 문항 존재: '응답(제출)' 버튼 비활성화
+      3a. 미응답 문항 존재: System은 저장을 거부하고, 누락된 항목을 강조 표시하여 표시
     </td>
   </tr>
 </table>
@@ -142,7 +143,7 @@
       <strong>Alternative Courses</strong><br>
       1a. 응답한 설문이 없는 경우: System은 '응답한 설문 내역이 없습니다' 안내 출력<br>
       2a. 설문이 종료된 경우: System은 해당 설문 항목의 '취소' 버튼을 비활성화<br>
-      E2-3a. 삭제 취소: System은 데이터 변경 없이 팝업을 닫고 기존 리스트 화면 유지
+      E1-3a. 삭제 취소: System은 데이터 변경 없이 팝업을 닫고 기존 리스트 화면 유지
     </td>
   </tr>
 </table>

@@ -8,6 +8,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## UI
+[Figma](https://www.figma.com/design/HAsKKZz4UbKE3UXQzPWVpJ/UML-UI-Design?m=auto&t=LxxIMEJjQ57s9paO-1)
+
 ## Credits
 <table id='credit'>
 <tr>

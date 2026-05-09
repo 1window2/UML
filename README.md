@@ -11,6 +11,10 @@
 ## UI
 [Figma](https://www.figma.com/design/HAsKKZz4UbKE3UXQzPWVpJ/UML-UI-Design?m=auto&t=LxxIMEJjQ57s9paO-1)
 
+## Use Case Diagram
+<strong>Rendered by [PlantUML Web Server](https://www.plantuml.com/plantuml/uml/)</strong> <br><br>
+![Use Case Diagram](https://www.plantuml.com/plantuml/png/ZPFVQXD15CRlvoaEkV6gVG0ffU_WfKWOTu-ReRkpOMQsiOWGcrWh5bIqK6mJ6X0f6A7Qb4Re4sLdty5njflPFujujSnylpdVd3dVxaX5XKgYa8JuJ86AGR2Wfy1d0Zt5OaxaBkDzAcW4VUhjqW0VgVqGuQzCUH0Y8THJiO1E-dkSVJdMPnywG2Nmc7SZZ9wYAFIIM1LMYs7wRQwdkKRzY752rlMXeqylqycTdYn1Zx-cywMUNUc3EMIVZzFfz-pzNGTU4814eaSb5Zwhgw6UlhOL9GjuqZT8au9iT9IzMLXim5JF5tHGfd93MFqQwj7Rl1XIuVMwCX5xk5z1Hw_qUAalJjBh1PWh6WDudBiyiIVt60wwFYhAmk9bcavwyZ5zTsDvWR8VSx_DoaAWZqwDdMNHPwgR7v3OWXRLxRNSRUujq6yxSdkf3tFMezp3i5o_pAUpyzNjqep7ic4SCDuYduprsQWWuaGPfANzzDFFT3QvRpzWKg5m_JVUwk27lZYti8yXAcn7Mnh_t_6jazcSO1xJfbDsUBEw7ZSD5LMIl2Ja0Qp_4p3b3KlShm8R6qLQ3LYb7544rMtLKkdscvbpOYrWJgYboUtNCkC4EtItBaPiUbY_OD66VJTtnYxT4RUkZTy9zXADJVV6f7fBsDhSh0SO7iBM5ZvNoFtjRL8gQE5Ablw9DWDHnNVC9ud2Fm00)
+
 ## Credits
 <table id='credit'>
 <tr>

@@ -262,6 +262,7 @@
   <tr>
     <td colspan="2">
       <strong>Alternative Courses</strong><br>
+      2a. 등록 설문 없음: System은 '등록된 설문 내역이 없습니다' 출력<br>
       E2-3a. 삭제 취소: System은 데이터 변경 없이 팝업을 닫고 기존 리스트 화면 유지
     </td>
   </tr>
@@ -284,7 +285,7 @@
   <tr>
     <td colspan="2">
       <strong>Alternative Courses</strong><br>
-      None.
+      4a. 해당 기간 통계 없음: '설문이 없습니다' 출력
     </td>
   </tr>
 </table>

@@ -4,12 +4,18 @@
 
 ## TOOLS
 ![UML](https://img.shields.io/badge/StarUML-FABD14?style=for-the-badge&logo=UML&logoColor=purple)
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 
 ## UI
-[Figma](https://www.figma.com/design/HAsKKZz4UbKE3UXQzPWVpJ/UML-UI-Design?m=auto&t=LxxIMEJjQ57s9paO-1)
+<strong>[Figma](https://www.figma.com/design/HAsKKZz4UbKE3UXQzPWVpJ/UML-UI-Design?m=auto&t=LxxIMEJjQ57s9paO-1)</strong>
+| Section | Contributor |
+| :--: | :--: |
+| S1 | H0sungKim |
+| S2 | plames90 |
+| S3 | 1window2 |
+| S4 | ktg3891 |
 
 ## Use Case Diagram
 <strong>Rendered by [PlantUML Web Server](https://www.plantuml.com/plantuml/uml/)</strong> <br><br>

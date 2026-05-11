@@ -1,0 +1,40 @@
+name: Render Use Case Description
+
+on:
+  push:
+    paths:
+      - "docs/use-case-description.html"
+      - ".github/workflows/render-usecase.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm install -D playwright
+          npx playwright install --with-deps chromium
+
+      - name: Render HTML to PNG
+        run: |
+          mkdir -p docs/assets
+          npx playwright screenshot --full-page --viewport-size=1400,900 "file://$(pwd)/docs/use-case-description.html" docs/assets/use-case-description.png
+
+      - name: Commit rendered image
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Render use case description image"
+          file_pattern: docs/assets/use-case-description.png
